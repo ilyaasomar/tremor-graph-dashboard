@@ -1,3 +1,7 @@
+
+![12](https://github.com/ilyaasomar/tremor-graph-dashboard/assets/48979155/56ba16f2-0fd2-48c4-94b0-f539f1c26d93)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
